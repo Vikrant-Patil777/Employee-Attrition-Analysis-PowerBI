@@ -108,6 +108,46 @@ This project addresses questions such as:
 10. How do income and experience relate to workforce patterns?
 
 
+# Business Answers & Insights
+1. Overall Workforce
+The organization has 1,470 employees in the dataset.
+
+2. Employee Attrition
+237 employees have left the organization.
+
+3. Overall Attrition Rate
+The overall attrition rate is 16.12%.
+
+4. Department Attrition
+Research & Development has the highest number of employee exits.
+
+5. Job Role Attrition
+Laboratory Technician has the highest attrition among the top 5 job roles shown in the dashboard.
+
+6. Overtime & Attrition
+Employees working overtime show a higher level of attrition, indicating that workload and work-life balance may require attention.
+
+7. Age Group
+The 26–35 age group represents the largest share of employee attrition in the analysis.
+
+8. Gender
+Male employees account for a higher number of employee exits than female employees in the dataset.
+
+9. Job Satisfaction
+Employee satisfaction levels provide an important area for HR to investigate when understanding attrition patterns.
+
+10. Income & Experience
+Income, experience, and tenure can be used to identify workforce groups with different attrition and retention patterns.
+
+
+## Recommendations
+- Reduce excessive overtime and improve work-life balance.
+- Focus on departments and job roles with high attrition.
+- Improve career growth and promotion opportunities.
+- Review compensation for high-risk employee groups.
+- Improve employee satisfaction and engagement.
+- Use data-driven retention strategies to reduce attrition.
+
 # Key Skills Demonstrated
 This project demonstrates practical skills in:
 * Data cleaning
