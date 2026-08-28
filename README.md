@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard — Power BI
+# 📊 Employee Attrition Analysis — Power BI
 
 
 # Project Overview 
