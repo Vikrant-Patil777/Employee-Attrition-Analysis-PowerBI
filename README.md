@@ -80,6 +80,7 @@ SQL techniques used include:
 
 
 # Power BI Dashboard
+<img width="1101" height="617" alt="HR_Analytics_Dashboard" src="https://github.com/user-attachments/assets/777cb23b-ce87-4b06-a427-169cbec96def" />
 The cleaned dataset and analysis were used to create an interactive **HR Analytics Dashboard** in Power BI.
 The dashboard focuses on key HR metrics and employee attrition patterns.
 Dashboard Analysis
