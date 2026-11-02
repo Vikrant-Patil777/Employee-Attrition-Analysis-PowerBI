@@ -80,18 +80,22 @@ SQL techniques used include:
 
 
 # Power BI Dashboard
-<img width="1101" height="617" alt="HR_Analytics_Dashboard" src="https://github.com/user-attachments/assets/777cb23b-ce87-4b06-a427-169cbec96def" />
-The cleaned dataset and analysis were used to create an interactive **HR Analytics Dashboard** in Power BI.
-The dashboard focuses on key HR metrics and employee attrition patterns.
+The cleaned dataset and SQL analysis were used to create an interactive HR Analytics Dashboard in Power BI.
+Key Performance Indicators
+- Total Employees
+- Active Employees
+- Total Attrition
+- Attrition Rate
+- Overtime Employees
+- Overtime Rate
 Dashboard Analysis
-The dashboard provides analysis of areas such as:
-* Attrition by job role
-* Employee demographics
-* Department-level analysis
-* Overtime
-* Age groups
-* Employee-related HR factors
-* Attrition patterns
+The dashboard provides analysis of:
+- Attrition by department
+- Attrition by job role
+- Attrition by education field
+- Attrition by age group
+- Attrition by gender
+- Employee experience groups
 Interactive slicers allow users to filter the dashboard and analyze the workforce from different perspectives.
 
 
